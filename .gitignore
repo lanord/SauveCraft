@@ -1,5 +1,6 @@
 *.DS_Store
 *.log
+instance.cfg
 minecraft/asm/
 minecraft/backups/
 minecraft/blueprints/
