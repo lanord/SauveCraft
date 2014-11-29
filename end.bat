@@ -1,3 +1,3 @@
 @echo off
-git checkout -- .
+rem git checkout -- .
 EXIT /B %ERRORLEVEL%

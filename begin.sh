@@ -1,3 +1,3 @@
 #!/bin/bash
-git checkout -- .
+git reset --hard
 git pull

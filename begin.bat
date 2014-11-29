@@ -1,4 +1,4 @@
 @echo off
-git checkout -- .
+git reset --hard
 git pull
 EXIT /B %ERRORLEVEL%
