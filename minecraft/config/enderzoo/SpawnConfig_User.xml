@@ -5,4 +5,7 @@
     <biomeType name="BASE_LAND_TYPES" />
   </entry>
  -->
+   <entry id="Slime" mobName="Slime" creatureType="monster" rate="50" remove="false">
+    <dimensionExclude name="Overworld"/>
+  </entry>
 </SpawnConfig>

@@ -6,12 +6,15 @@ instance.cfg
 minecraft/asm/
 minecraft/backups/
 minecraft/blueprints/
+minecraft/config/witchery_debug.cfg
+minecraft/crash-reports
 minecraft/dumps/
 minecraft/dynmap/
 minecraft/hats/
 minecraft/journeymap/
 minecraft/liteconfig/
 minecraft/logs/
+minecraft/reports/
 minecraft/resourcepacks/
 minecraft/saves/
 minecraft/screenshots/
