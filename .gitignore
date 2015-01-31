@@ -1,8 +1,8 @@
 *.DS_Store
 *.log
 instance.cfg
-*begin*
-*end*
+begin.bat
+begin.sh
 minecraft/asm/
 minecraft/backups/
 minecraft/blueprints/
