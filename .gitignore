@@ -3,6 +3,7 @@
 instance.cfg
 begin.bat
 begin.sh
+natives/
 minecraft/asm/
 minecraft/backups/
 minecraft/blueprints/
