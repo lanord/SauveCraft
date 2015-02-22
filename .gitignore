@@ -1,5 +1,7 @@
 *.DS_Store
 *.log
+*.disabled
+*.errored
 instance.cfg
 begin.bat
 begin.sh
@@ -7,10 +9,12 @@ natives/
 minecraft/asm/
 minecraft/backups/
 minecraft/blueprints/
+minecraft/config/DynmapModScraper.cfg
 minecraft/config/witchery_debug.cfg
 minecraft/crash-reports
 minecraft/dumps/
 minecraft/dynmap/
+minecraft/DynmapModScraper/
 minecraft/hats/
 minecraft/journeymap/
 minecraft/liteconfig/
@@ -20,6 +24,7 @@ minecraft/resourcepacks/
 minecraft/saves/
 minecraft/screenshots/
 minecraft/scripts/
+minecraft/TCNodeTracker/
 minecraft/texturepacks/
 minecraft/1213309934
 minecraft/options.txt
